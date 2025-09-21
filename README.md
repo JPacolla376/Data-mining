@@ -69,7 +69,8 @@ Próximo passo 👉 **Etapa 2: Implementação dos modelos e avaliação de dese
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 **João Augusto Selegatto Pacolla**  
+**Maikon Fabricio Gino**  
 Disciplina: *Mineração de Dados*  
 Fatec Araras — Centro Paula Souza
