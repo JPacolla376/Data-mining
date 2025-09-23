@@ -51,38 +51,42 @@ O projeto também aborda os impactos do uso de nuvem no contexto de ciência de 
 ## Tecnologias Utilizadas
 
 <table align="center">
-  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="100" width="110">
+    </td>
+    <td align="center">
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="100" width="110">
+    </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="100" width="110">
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="100" width="110">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="100" width="110">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="100" width="110">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="100" width="110">
-    </td>
-    <td align="center">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="100" width="110">
-    </td>
-    <td align="center">
-      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="100" width="110">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Python 3</td>
-    <td align="center">Pandas</td>
-    <td align="center">NumPy</td>
-    <td align="center">Scikit-learn</td>
-    <td align="center">Matplotlib</td>
-    <td align="center">Seaborn</td>
-    <td align="center">Google Colab</td>
-  </tr>
+  </tr>
+  <tr>
+    <td align="center">Python 3</td>
+    <td align="center">Pandas</td>
+    <td align="center">NumPy</td>
+    <td align="center">Scikit-learn</td>
+    <td align="center">Matplotlib</td>
+    <td align="center">Seaborn</td>
+    <td align="center">Google Colab</td>
+    <td align="center">Jupyter Notebook</td>
+  </tr>
 </table>
 
 ---
