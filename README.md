@@ -75,7 +75,7 @@ O projeto também aborda os impactos do uso de nuvem no contexto de ciência de 
     </td>
   </tr>
   <tr>
-    <td align="center">Python</td>
+    <td align="center">Python 3</td>
     <td align="center">Pandas</td>
     <td align="center">NumPy</td>
     <td align="center">Scikit-learn</td>
