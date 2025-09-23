@@ -50,13 +50,13 @@ O projeto também aborda os impactos do uso de nuvem no contexto de ciência de 
 
 ## Tecnologias Utilizadas
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-  <img align="center" alt="Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-  <img align="center" alt="Google Colab" height="30" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="scikit-learn" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+  <img align="center" alt="Matplotlib" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Seaborn" height="50" width="60" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+  <img align="center" alt="Google Colab" height="50" width="60" src="https://colab.research.google.com/img/colab_favicon_256px.png">
 </div>
   
 ---
