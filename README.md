@@ -56,7 +56,9 @@ O projeto também aborda os impactos do uso de nuvem no contexto de ciência de 
 
 ---
 
-## Autor
-**João Augusto Selegatto Pacolla**  
+## Autores
+
+- **[João Augusto Selegatto Pacolla](https://github.com/JPacolla376)**
+- **[Maikon Gino](https://github.com/MaikonGino)**
 Disciplina: Mineração de Dados  
 Fatec Araras — Centro Paula Souza
